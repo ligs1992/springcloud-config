@@ -1,2 +1,5 @@
 profile:
   prod
+config:
+  info: "main branch, config-prod.yml, version=1"
+
